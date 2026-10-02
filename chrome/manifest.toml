@@ -1,0 +1,4 @@
+name = "Chrome"
+
+[install]
+cmd = []
