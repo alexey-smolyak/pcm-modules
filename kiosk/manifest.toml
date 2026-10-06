@@ -1,0 +1,5 @@
+name = "Kiosk"
+
+[install]
+os = ["windows"]
+cmd = ["python", "main.py"]

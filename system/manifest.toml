@@ -1,4 +1,0 @@
-name = "System"
-
-[install]
-cmd = ["powershell.exe", "-ExecutionPolicy", "Bypass", "-File", "install.ps1"]
