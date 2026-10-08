@@ -1,0 +1,5 @@
+name = "System"
+
+[install]
+os = ["windows"]
+cmd = ["powershell", "-ExecutionPolicy", "Bypass", "-File", "install.ps1"]
