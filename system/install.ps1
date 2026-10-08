@@ -113,6 +113,7 @@ try {
         $student = New-LocalUser `
             -Name $StudentName `
             -NoPassword `
+            -Description 'College lab student account - restricted standard user' `
             -AccountNeverExpires
     }
     else {
